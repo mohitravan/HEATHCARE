@@ -24,3 +24,9 @@ Billing vs Health Insurance trends (CT Scan, Ultrasound, MRI, Blood Test, X-Ray)
 Power BI / Tableau / Excel (for Dashboard)
 
 Data Visualization & Reporting
+	
+ 
+ 
+ Screenshots / Demos
+
+Example: ![Dashboard Preview](https://github.com/mohitravan/HEATHCARE/blob/main/HEATHCARE.png)
